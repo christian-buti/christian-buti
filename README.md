@@ -19,3 +19,5 @@ ENGLISH
 - 📫 Email: christian.buti47@gmail.com
 
 - 👨‍🎓 I've always been very attracted to the world of IT and technology in general, I am interested in learning more and more and getting involved when I can.
+
+<img src="https://github-readme-stats.vercel.app/api?username=christian-buti&&show_icons=true&title_color=007fff&icon_color=007fff&text_color=daf7dc&bg_color=151515">
