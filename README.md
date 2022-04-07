@@ -3,7 +3,7 @@ ITALIANO
 
 - 🌱 Frequento il quinto anno dell'ITIS E. Fermi (Lucca) indirizzo informatica; attualmente sto studiando il PHP, i sistemi distribuiti e l'XML.
 
-- 💬 Ho una discreta conoscenza di alcuni linguaggi (C/C++, Java, SQL, HTML, Python) e di progettazione e gestione delle reti, in grandissima parte a livello di insegnamento scolastico
+- 💬 Ho una discreta conoscenza di alcuni linguaggi (C/C++, Java, SQL, HTML) e di progettazione e gestione delle reti, in grandissima parte a livello di insegnamento scolastico
 
 - 📫 Email: christian.buti47@gmail.com
 
