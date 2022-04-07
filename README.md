@@ -14,7 +14,7 @@ ENGLISH
 
 - 🌱 I am in the fifth year of ITIS E. Fermi, IT address; actually, I'm studying PHP, distributed systems and XML.
 
-- 💬 I have a fair knowledge in some languages (C/C++, Java, SQL, HTML, Python) and in network design and management, in large part at a scholastic level.
+- 💬 I have a fair knowledge in some languages (C/C++, Java, SQL, HTML) and in network design and management, in large part at a scholastic level.
 
 - 📫 Email: christian.buti47@gmail.com
 
